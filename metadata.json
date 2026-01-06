@@ -1,0 +1,7 @@
+{
+  "name": "SHEMWAVE-AQUA",
+  "description": "Smart aqua farming automation for motor and light management with real-time monitoring and failure alerts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
